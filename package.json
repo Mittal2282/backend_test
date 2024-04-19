@@ -1,0 +1,14 @@
+{
+  "name": "deploy-backend",
+  "version": "1.0.0",
+  "description": "Deploy a backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rahul Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
